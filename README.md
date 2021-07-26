@@ -8,6 +8,8 @@
 
 [repository](https://github.com/Doheon/Doheon.github.io)
 
+&nbsp;
+
 
 
 # Machine Learning
@@ -18,6 +20,8 @@
 
 Time Series Imputation application using django
 
+&nbsp;
+
 
 
 ### Vision
@@ -26,17 +30,19 @@ Time Series Imputation application using django
 
 Family photo classifiers using django and detectron2
 
-
+&nbsp;
 
 [familyphotoproj](https://github.com/Doheon/familyphotoproj)
 
 Family photo classifiers using django
 
+&nbsp;
+
 
 
 ### NLP
 
-
+&nbsp;
 
 
 
@@ -50,7 +56,7 @@ Family photo classifiers using django
 
 Chess statistics web application using django
 
-
+&nbsp;
 
 
 
@@ -63,6 +69,8 @@ Chess statistics web application using django
 
 [InverseKinematic](https://github.com/Doheon/InverseKinematic)
 
+&nbsp;
+
 
 
 # Game
@@ -71,3 +79,4 @@ Chess statistics web application using django
 
 FPS game made by Unity
 
+&nbsp;
