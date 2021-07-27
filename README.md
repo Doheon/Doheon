@@ -42,6 +42,18 @@ Family photo classifiers using django
 
 ### NLP
 
+[Chatbot-Transformer](https://github.com/Doheon/Chatbot-Transformer)
+
+
+
+**NewsClassification**
+
+[NewsClassification-KoBERT](https://github.com/Doheon/NewsClassification-KoBERT)
+
+[NewsClassification-Doc2Vec](https://github.com/Doheon/NewsClassification-Doc2Vec)
+
+[NewsClassification-LSTM](https://github.com/Doheon/NewsClassification-LSTM)
+
 &nbsp;
 
 
