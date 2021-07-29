@@ -4,9 +4,7 @@
 
 # Blog
 
-[blog](https://doheon.github.io/)
-
-[repository](https://github.com/Doheon/Doheon.github.io)
+[blog](https://doheon.github.io/) / [repository](https://github.com/Doheon/Doheon.github.io)
 
 &nbsp;
 
@@ -62,11 +60,9 @@ Family photo classifiers using django
 
 
 
-### Others
+# Others
 
-[chesstics](https://github.com/Doheon/chesstics)
-
-[Link](http://chesstics.pythonanywhere.com/)
+[chesstics](https://github.com/Doheon/chesstics) / [Link](http://chesstics.pythonanywhere.com/)
 
 Chess statistics web application using django
 
