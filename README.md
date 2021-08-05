@@ -20,6 +20,21 @@ Time Series Imputation application using django
 
 &nbsp;
 
+**Time Series Forecast**
+
+[TimeSeriesForecast-ARIMA](https://github.com/Doheon/TimeSeriesForecast-ARIMA)
+
+
+[TimeSeriesForecast-FacebookProphet](https://github.com/Doheon/TimeSeriesForecast-FacebookProphet)
+
+[TimeSeriesForecast-LSTM](https://github.com/Doheon/TimeSeriesForecast-LSTM)
+
+[TimeSeriesForecast-Transformer](https://github.com/Doheon/TimeSeriesForecast-Transformer)
+
+[TimeSeriesForecast-Informer](https://github.com/Doheon/TimeSeriesForecast-Informer)
+
+&nbsp;
+
 
 
 ### Vision
@@ -41,6 +56,8 @@ Family photo classifiers using django
 ### NLP
 
 [Chatbot-Transformer](https://github.com/Doheon/Chatbot-Transformer)
+
+Chatbot using Transformer
 
 &nbsp;
 
