@@ -14,6 +14,8 @@
 
 ### Time Series
 
+**Develop**
+
 [ImputationDjango](https://github.com/Doheon/ImputationDjango)
 
 Time Series Imputation application using django
@@ -35,9 +37,17 @@ Time Series Imputation application using django
 
 &nbsp;
 
+**Time Series Imputation**
 
+[TimeSeriesImputation-NAOMI](https://github.com/Doheon/TimeSeriesImputation-NAOMI)
+
+[TimeSeriesImputation-BRITS](https://github.com/Doheon/TimeSeriesImputation-BRITS)
+
+&nbsp;
 
 ### Vision
+
+**Develop**
 
 [familyphotoprojV2](https://github.com/Doheon/familyphotoprojV2)
 
@@ -55,6 +65,8 @@ Family photo classifiers using django
 
 ### NLP
 
+**ChatBot**
+
 [Chatbot-Transformer](https://github.com/Doheon/Chatbot-Transformer)
 
 Chatbot using Transformer
@@ -63,7 +75,7 @@ Chatbot using Transformer
 
 
 
-**NewsClassification**
+**News Classification**
 
 [NewsClassification-KoBERT](https://github.com/Doheon/NewsClassification-KoBERT)
 
